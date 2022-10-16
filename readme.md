@@ -2,6 +2,11 @@
 
 This is an app that lets you manage employees. You can give employees different roles, add employees, add roles, set a salary, and manage departments
 
+## Video walkthrough
+
+https://drive.google.com/file/d/1Z5l58U2h1Uy8ItmXXROUTlW2DDgXChQl/view?usp=sharing
+
+
 ## Technologies used
 - MySql
 - Inquirer

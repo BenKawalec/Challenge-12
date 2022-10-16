@@ -242,7 +242,7 @@ function addEmployee() {
 
   })
  }
- 
+
 function updateEmployeeRole() {
     connection.query("SELECT employees.lastName, role.title FROM employees JOIN role ON employees.roleID = role.id;", 
     (err, res) => {
